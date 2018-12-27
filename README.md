@@ -3,7 +3,7 @@ SAP ML Foundation Postman Configurations
 
 Öncelikle Cloud Foundry'de P1941701105trial hesaptan bir ML foundation oluşturuldu ve bize FaaS olarak kullanabileceğimiz servisler sunuldu.
 
-SAP ML Foundation'da 4 farklı yol izlendi;
+Psotman'deki "SAP ML Foundation" Collection'unda 4 farklı yol izlendi;
 
 	1-"API HUB"deki API KEY ile var olan servisler FaaS olarak çağrıldı.
 	2-"BYOM" ile yazılan kendi python kodumuz deploy edilip request atılmaya çalışıldı, kendi modelimiz vs. oluşturuldu.
